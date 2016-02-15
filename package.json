@@ -21,6 +21,7 @@
   "homepage": "https://github.com/BEKK-IoT/arduino-uno#readme",
   "dependencies": {
     "devices-core": "bekk-iot/devices-core",
-    "johnny-five": "^0.8.88"
+    "johnny-five": "^0.8.88",
+    "serialport": "^2.0.6"
   }
 }
